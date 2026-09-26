@@ -1,0 +1,17 @@
+# Versions are intentionally left unpinned for the LangChain-family
+# packages below. LangChain and its partner packages (core, ollama,
+# chroma, huggingface) move fast and must all agree on a compatible
+# langchain-core version -- pinning exact old versions here caused
+# dependency conflicts. Letting pip pick the latest mutually
+# compatible set is the more reliable choice for this project.
+streamlit
+langchain-core
+langchain-text-splitters
+langchain-ollama
+langchain-chroma
+langchain-huggingface
+chromadb
+sentence-transformers
+pypdf
+python-docx
+numpy
