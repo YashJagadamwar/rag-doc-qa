@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+
+# ChromaDB persistent stores (regenerated per upload)
+chroma_db/
+*.sqlite3
+*.bin
+
+# Uploaded documents (don't commit test PDFs/user data)
+uploads/
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS/editor junk
+.DS_Store
+.idea/
+.vscode/
