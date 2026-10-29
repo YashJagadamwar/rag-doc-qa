@@ -161,13 +161,3 @@ rag-doc-qa/
   answers.
 - Periodically clean up old ChromaDB collections left behind by past
   sessions.
-
-## 7. Resume line
-
-> **Generative AI-Powered Document Q&A System (RAG + LLM)**
-> Python, LangChain, ChromaDB, Streamlit
-> Built a fully local, zero-cost retrieval-augmented generation system
-> that answers questions over user-uploaded documents with cited
-> sources, using local embeddings and a locally-hosted LLM (Ollama);
-> included a lightweight evaluation harness for retrieval accuracy and
-> answer quality.
