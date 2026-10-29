@@ -149,7 +149,7 @@ rag-doc-qa/
   on-disk persistent client with a fresh collection per upload
   specifically to avoid this class of bug.
 
-## 6. Possible extensions (talk about these as "next steps" in interviews)
+## 6. Possible extensions
 
 - Swap in RAGAS or an LLM-as-judge for deeper evaluation (faithfulness,
   answer relevance, context precision/recall).
